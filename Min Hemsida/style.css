@@ -1,0 +1,11 @@
+#middleSection {
+	border: black dotted 1px;
+}
+
+#topSection {
+	border: red solid 1px;
+}
+
+#menuSection {
+	border: dashed blue 1px;
+}
